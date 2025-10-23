@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\juniorresearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\juniorresearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|c:\\users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB03C9-7659-4662-B199-DD570EF8A0C8}|bethanypieshop\\bethanypieshop.csproj|solutionrelative:bethanypieshop\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\Program.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\Program.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\Program.cs",
+              "RelativeToolTip": "bethanypieshop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:05:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\Utilities.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\Utilities.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\Utilities.cs",
+              "RelativeToolTip": "bethanypieshop\\Utilities.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:10:47.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuniorResearcher.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\JuniorResearcher.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\JuniorResearcher.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\JuniorResearcher.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\JuniorResearcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:59:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\EmployeeType.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:58:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\Employee.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Employee.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\Employee.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:46:54.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Researcher.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Researcher.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\Researcher.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Researcher.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\Researcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:57:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\StoreManager.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\StoreManager.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\StoreManager.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\StoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:58:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkTask.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\WorkTask.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\WorkTask.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\WorkTask.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\WorkTask.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:01:48.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Manager.cs",
+              "RelativeDocumentMoniker": "bethanypieshop\\HR\\Manager.cs",
+              "ToolTip": "C:\\Users\\nosar\\source\\repos\\bethanypieshop\\bethanypieshop\\HR\\Manager.cs",
+              "RelativeToolTip": "bethanypieshop\\HR\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:55:02.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

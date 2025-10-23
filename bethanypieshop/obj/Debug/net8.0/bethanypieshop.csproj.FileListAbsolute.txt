@@ -1,0 +1,14 @@
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\bin\Debug\net8.0\bethanypieshop.exe
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\bin\Debug\net8.0\bethanypieshop.deps.json
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\bin\Debug\net8.0\bethanypieshop.runtimeconfig.json
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\bin\Debug\net8.0\bethanypieshop.dll
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\bin\Debug\net8.0\bethanypieshop.pdb
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.AssemblyInfoInputs.cache
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.AssemblyInfo.cs
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.csproj.CoreCompileInputs.cache
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.dll
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\refint\bethanypieshop.dll
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.pdb
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\bethanypieshop.genruntimeconfig.cache
+C:\Users\Rabee\source\repos\bethanypieshop\bethanypieshop\obj\Debug\net8.0\ref\bethanypieshop.dll

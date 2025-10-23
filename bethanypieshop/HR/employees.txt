@@ -1,0 +1,3 @@
+firstName:lamis;lastName:mohamed;email:@@;birthDay:12/12/2005;hourlyRate:8;type:3;
+firstName:menna;lastName:rabee;email:@@;birthDay:5/5/2005;hourlyRate:8;type:4;
+firstName:hala;lastName:ahmed;email:@@;birthDay:5/4/2005;hourlyRate:4;type:1;
